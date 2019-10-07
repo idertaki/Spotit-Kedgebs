@@ -1,0 +1,34 @@
+/*import card style file*/
+@import url("../composant/background.css");
+/*import responsiveness style file*/
+@import url("style/Responsiveness.css");
+/*import main page button style file*/
+@import url("../composant/button.css");
+
+/*import main page banner style file*/
+@import url("../composant/banner.css");
+
+/*import upper navigation bar style file*/
+@import url("../composant/uppernavbar.css");
+
+/*import footer style file*/
+@import url("../composant/footer.css");
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 
+}
+
+.card-text{
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size:23px;
+}
+
+.carousel-item h5 p{
+	background-color: black;
+}
+
+
+

@@ -1,0 +1,26 @@
+.btn-flat {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: #ba936b;
+  transition: background 0.3s ease;
+  font-weight: bold;
+}
+
+.btn-flat:hover {
+  background: #796157;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btns {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  border: border-width solid transparent;
+  outline: 0;
+  box-shadow: box-shadow;
+  font-size: 17px
+  }
